@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/WilliamDarcy/testJasmine/issues"
   },
-  "homepage": "https://github.com/WilliamDarcy/testJasmine#readme"
+  "homepage": "https://github.com/WilliamDarcy/testJasmine#readme",
+  "dependencies": {
+    "jasmine": "^3.1.0"
+  }
 }
